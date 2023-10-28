@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Shaik Shoaib Nawaz</h3>
-<h3>Register Number: 212222240094</h3>
+<h3>Name: M SRINATH</h3>
+<h3>Register Number: 212222230147</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
